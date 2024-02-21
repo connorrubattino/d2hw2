@@ -38,10 +38,11 @@ div input {
     width: 90%;
 }
 
-#pword {
+.pword {
     margin-left: 50px;
     /* word-spacing: 75px; */
     font-weight: 100;
+    display: flex;
     justify-content: space-between;
     
 }
